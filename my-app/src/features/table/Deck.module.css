@@ -1,0 +1,15 @@
+.houseBox {
+  border: 2px solid red;
+  padding: 2rem;
+}
+
+.playerBox {
+  border: 2px solid red;
+  padding: 2rem;
+}
+
+.card {
+  width: 100px;
+  height: 100px;
+  border: 2px solid green;
+}
